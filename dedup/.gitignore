@@ -1,0 +1,50 @@
+
+# Xcode
+.DS_Store
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.xcsettings
+*.xcbkptlist
+*.xcuserstate
+*.xcscheme
+*.playground/timeline.xctimeline
+*.playground/playground.xcworkspace/xcuserdata/
+
+# Build products
+build/
+DerivedData/
+*.app
+*.ipa
+*.dSYM.zip
+*.xcarchive
+*.xctest
+*.framework
+*.dsym
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Other
+.swiftpm/
+.swift-version
+.tool-versions
+.vscode/
+.idea/
