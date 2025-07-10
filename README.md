@@ -10,10 +10,8 @@ A minimal and elegant network speed monitor for macOS, designed to live in your 
 *   **Launch at Login:** Option to automatically start the application when your Mac boots up.
 *   **Lightweight:** Built natively for macOS using Swift and SwiftUI.
 
-## Installation
 
-### Build from Source (For Developers)
-
+### Build from Source 
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/nanosx/netspeed.git
