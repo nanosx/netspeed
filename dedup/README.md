@@ -12,15 +12,7 @@ A minimal and elegant network speed monitor for macOS, designed to live in your 
 
 ## Installation
 
-### Option 1: Download the Standalone Application (Recommended for Users)
-
-1.  Go to the [Releases](https://github.com/nanosx/netspeed/releases) section of this GitHub repository.
-2.  Download the latest `NetSpeed.app.zip` file.
-3.  Unzip the downloaded file.
-4.  Drag the `NetSpeed.app` file into your `/Applications` folder.
-5.  Launch `NetSpeed.app` from your Applications folder.
-
-### Option 2: Build from Source (For Developers)
+### Build from Source (For Developers)
 
 1.  **Clone the repository:**
     ```bash
